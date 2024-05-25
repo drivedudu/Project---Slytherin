@@ -5,9 +5,9 @@
 ## Getting Started
 
 1. Clone this repo  [link](https://github.com/drivedudu/Week_3_project.git).
-2. Raw Data is being kept [here](https://www.kaggle.com/datasets/yassereleraky/aviation-accident-ntsb?select=AviationData.csv) within this repo.
-3. The main script is [here](https://raw.githubusercontent.com/drivedudu/Week_3_project/main/AviationDA.ipynb)
-4. Data processing/transformation/cleaning scripts are [here](https://raw.githubusercontent.com/drivedudu/Week_3_project/main/defs.py)
+2. Raw Data is being kept [here](https://github.com/drivedudu/Project---Slytherin/blob/main/potter.sql) within this repo.
+3. The main script is [here](https://github.com/drivedudu/Project---Slytherin/blob/main/API-Potter.ipynb)
+4. Data processing/transformation/cleaning scripts are [here](https://github.com/drivedudu/Project---Slytherin/blob/main/defs.py)
 
 
 # Blood Status.
